@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "recent": [
+    { "id": 1, "name": "Kolkata" },
+    { "id": 2, "name": "Kalyani" },
+    { "id": 3, "name": "Kandi" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "client": [
+    { "id": 1, "name": "Kolkata" },
+    { "id": 2, "name": "Kalyani" },
+    { "id": 3, "name": "Kandi" },
+    { "id": 4, "name": "Kabul" },
+    { "id": 5, "name": "Kajakisthan" }
+  ]
 }
